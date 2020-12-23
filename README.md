@@ -1,4 +1,5 @@
 # 2-Color Gradient Generator <br>
+# https://akshayubc.github.io/gradient-generator/ 
 Through DOM Manipulation <br>
 
 <b>Index.html:</b> Use it to understand the class and ID's name for different input elements. <br>
