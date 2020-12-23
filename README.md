@@ -12,7 +12,7 @@ Through DOM Manipulation <br>
   
 <b> script.js:</b> Used to change the earlier declared CSS based on user's color input <br>
 
-```function update() {<br>
+```function update() {
     body.style.background="linear-gradient(to right, " + color1.value + "," 
     + color2.value + ")";
 }
