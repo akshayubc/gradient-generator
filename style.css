@@ -19,3 +19,11 @@ input[type="color"]::-webkit-color-swatch-wrapper {
 input[type="color"]::-webkit-color-swatch {
 	border: none;
 }
+
+.c1 {
+	border-radius: 50%;
+}
+
+.c2 {
+	border-radius: 50%;
+}
