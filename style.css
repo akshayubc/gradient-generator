@@ -6,3 +6,16 @@ body {
     top:15%;
     background:linear-gradient(to right, #4DAC4D, #3EC1B1);
 }
+
+input[type="color"] {
+	-webkit-appearance: none;
+	border: none;
+	width: 32px;
+	height: 32px;
+}
+input[type="color"]::-webkit-color-swatch-wrapper {
+	padding: 0;
+}
+input[type="color"]::-webkit-color-swatch {
+	border: none;
+}
