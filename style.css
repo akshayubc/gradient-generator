@@ -6,10 +6,9 @@ body {
 	margin-top: 15em;
     top:15%;
 	background:linear-gradient(to right, #4DAC4D, #3EC1B1);
-	font-family: 'Poppins';
+	font-family: 'Poppins', sans-serif;	
 	font-size: 22px;
 	font-weight: 900;
-	/* text */
 }
 
 
