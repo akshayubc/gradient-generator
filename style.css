@@ -2,28 +2,14 @@ body {
     color:rgba(0,0,0,.5);
     text-align:center;
     text-transform:uppercase;
-    letter-spacing: .5em;
+	letter-spacing: .2em;
+	margin-top: 15em;
     top:15%;
-    background:linear-gradient(to right, #4DAC4D, #3EC1B1);
+	background:linear-gradient(to right, #4DAC4D, #3EC1B1);
+	font-family: 'Poppins';
+	font-size: 22px;
+	font-weight: 900;
+	/* text */
 }
 
-input[type="color"] {
-	-webkit-appearance: none;
-	border: none;
-	width: 32px;
-	height: 32px;
-}
-input[type="color"]::-webkit-color-swatch-wrapper {
-	padding: 0;
-}
-input[type="color"]::-webkit-color-swatch {
-	border: none;
-}
 
-.c1 {
-	border-radius: 50%;
-}
-
-.c2 {
-	border-radius: 50%;
-}
